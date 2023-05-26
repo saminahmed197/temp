@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\temperature",
+    "\\temperature\\app",
+    "\\temperature\\app\\Http",
+    "\\temperature\\app\\Http\\Controllers",
+    "\\temperature\\app\\Models",
+    "\\temperature\\routes"
+  ],
+  "SelectedNode": "\\temperature\\app\\Http\\Controllers\\WeatherDataController.php",
+  "PreviewInSolutionExplorer": false
+}
